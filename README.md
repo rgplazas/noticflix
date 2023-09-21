@@ -21,8 +21,6 @@
 
 <p>
     Para empezar se debe ejecutar el siguiente comando:
-    <code>
-        pip install -r requirements.txt
-    </code>
+    <code>pip install -r requirements.txt</code>
 </p>
 
